@@ -1,2 +1,2 @@
 # JavaScript-Calculator
- https://erickouassi.github.io/JavaScript-Calculator/
+ https://codepen.io/erickouassi/full/QYjMyw
