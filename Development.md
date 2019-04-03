@@ -23,3 +23,8 @@ Javascript & CSS page update
 
 CSS page update
 
+* 4/02/2019
+
+CSS & HTML page update
+
+
