@@ -31,4 +31,8 @@ CSS & HTML page update
 
 css code updated
 
+* 4/8/2019
+
+css bug fixed
+
 
