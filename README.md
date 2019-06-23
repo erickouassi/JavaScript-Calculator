@@ -1,2 +1,1 @@
-# JavaScript-Calculator
- https://codepen.io/erickouassi/full/QYjMyw
+Objective: Build a CodePen.io app that is functionally similar to this: https://codepen.io/freeCodeCamp/full/wgGVVX.
