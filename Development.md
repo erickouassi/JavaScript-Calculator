@@ -35,4 +35,7 @@ css code updated
 
 css bug fixed
 
+* 12/08/2019
+HTML small bug fixed 
+
 
