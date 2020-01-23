@@ -39,4 +39,8 @@ css bug fixed
 
 HTML small bug fixed 
 
+* 1/22/2022
+
+Update css 
+
 
